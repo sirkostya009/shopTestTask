@@ -6,5 +6,5 @@ const (
 	Username    = "admin"
 	Password    = "admin"
 	Address     = ":8080"
-	DatabaseURL = "postgres://postgres:postgres@localhost:5432/postgres"
+	DatabaseURL = "postgres://username:password@localhost:5432/dbname"
 )
